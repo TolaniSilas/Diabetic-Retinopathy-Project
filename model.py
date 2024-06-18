@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-print("hi")
-print('hello')
-=======
 import tensorflow as tf
 from tensorflow.keras.models import load_model
 import numpy as np
@@ -42,5 +38,3 @@ def predict_image(model, image_path):
     probability_prediction = model.predict( image_tensor)
 
     return np.round(probability_prediction, decimals=4)
-
->>>>>>> 3cd38bd813b3228d354c1edebb42de73482b2b4f
