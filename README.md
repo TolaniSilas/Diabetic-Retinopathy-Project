@@ -81,7 +81,6 @@ This application automates the early-stage detection of diabetic retinopathy (DR
 
 
 
-
 ## Usage
 
 1. Open the application in your browser.
@@ -112,6 +111,66 @@ This application automates the early-stage detection of diabetic retinopathy (DR
 
 
 
+## For the Mobile Application:
+## Installation
+
+        1. Clone the repository:
+            git clone https://github.com/your-username/your-repository.git
+
+
+        2. Navigate to the project directory:
+            cd diabetesimageclassifier
+
+
+        3. Download and install the required softwares by following the steps in the link below:
+            https://docs.flutter.dev/get-started/install
+
+
+## Usage
+
+Click the link below to download mobile app:
+
+https://drive.google.com/file/d/1ap_UEfRk3AvkDRjapM_oEmgu2fCePI_9/view?usp=sharing
+
+1.	Click the link above to download mobile app on your phone, install and open the app.
+
+2.	Register or login
+    - If you are a new user, press the register button and fill the required information and press "Register".
+    - If you already have an account, press the "Login" button and enter your information to log in to your account.
+
+3.	You will be navigated to the "Select Classiier Screen"
+    - Choose the "Single Image Classifier" button to classify a single image.
+    
+    OR
+    
+    - Choose the "Multiple Image Classifier" button to classify a multiple images at once.
+
+4. Upload a Retinal Image
+    - For the Single Image Classifier
+        - Press the "Pick Image" button to select a single image from your gallery and the result will be delivered.
+    - For the Multiple Image Classifier
+        - Press the "Pick Images" button to select multiple images from your gallery and the result will be delivered.
+
+    - NOTE: DR means Diabetes Retinopathy and No_DR means No Diabetes Retinopathy
+
+5. You can press the "Download" button to downlad the result of the classification
+
+
+## Other features of the mobile app;
+
+-   Offline Registration and Login feature
+
+-	About Project Page: This page shows what the app is about and the project behind it.
+
+-	Report Bug feature: Report any suspected error or bug encountered during usage of the app.
+
+-	Send Feedback feature: Send feedback about how we can improve the app through Gmail.
+
+-	Meet the Developers Page: This page presents the developers behind the whole project who were involved in the building process.
+
+-	Logout feature: Logs the user out from the app.
+
+
 
 ## Contributing
 
@@ -125,6 +184,8 @@ Contributions are welcome! If you would like to contribute to the project, feel 
 For any feedback regarding this **Automated Detection of Diabetic Retinopathy**, please contact us at:
 
 - tolanisilas3606@gmail.com
+
+- soaresayoigbala@gmail.com
 
 
 
