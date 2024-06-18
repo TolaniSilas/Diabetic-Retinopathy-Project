@@ -119,7 +119,7 @@ This application automates the early-stage detection of diabetic retinopathy (DR
 
 
         2. Navigate to the project directory:
-            cd diabetesimageclassifier
+            cd Diabetic-Retinopathy-Project
 
 
         3. Download and install the required softwares by following the steps in the link below:
