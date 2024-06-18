@@ -176,7 +176,6 @@ with tab1:
                 <li>Reduce reliance on subjective assessments and manual labor for DR diagnosis.</li>
                 <li>Address challenges posed by the increasing prevalence of diabetes and the shortage of ophthalmologists.</li>
                 <li>Develop a robust and scalable system for DR detection.</li>
-                <li>Enable personalized treatment plans based on precise DR severity assessments.</li>
             </ul>
             """,
             unsafe_allow_html=True,
@@ -193,6 +192,10 @@ with tab2:
                 <li>Utilize machine learning and computer vision techniques for analysis.</li>
                 <li>Display accurate detection results.</li>
                 <li>Provide confidence levels in the presence or absence of DR detection.</li>
+                <li>Capability for signing in and signing up.</li>
+                <li>Storing and retrieving patient information.</li>
+                <li>Store prediction information for tracking and download prediction reports in PDF format.</li>
+                <li>Ensure user privacy and security of patient's data.</li>
             </ul>
             """,
             unsafe_allow_html=True,
