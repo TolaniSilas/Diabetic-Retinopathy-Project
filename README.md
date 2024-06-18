@@ -55,7 +55,7 @@ This application automates the early-stage detection of diabetic retinopathy (DR
 ### For the Web Application:
 
         1. Clone the repository:
-            git clone https://github.com/your-username/your-repository.git
+            git clone https://github.com/TolaniSilas/Diabetic-Retinopathy-Project
 
 
         2. Navigate to the project directory:
@@ -115,7 +115,7 @@ The web app is live at https://diabetic-retinopathy-web.streamlit.app
 ## Installation
 
         1. Clone the repository:
-            git clone https://github.com/your-username/your-repository.git
+            git clone https://github.com/TolaniSilas/Diabetic-Retinopathy-Project
 
 
         2. Navigate to the project directory:
