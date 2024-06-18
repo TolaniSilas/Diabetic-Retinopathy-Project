@@ -52,7 +52,7 @@ This application automates the early-stage detection of diabetic retinopathy (DR
 
 ## Installation
 
-### For the Web App:
+### For the Web Application:
 
         1. Clone the repository:
             git clone https://github.com/your-username/your-repository.git
