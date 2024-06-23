@@ -180,6 +180,7 @@ https://drive.google.com/file/d/1ap_UEfRk3AvkDRjapM_oEmgu2fCePI_9/view?usp=shari
 - Scikit-Learn
 - Matplotlib
 - Numpy
+- Flutter
 
 
 
