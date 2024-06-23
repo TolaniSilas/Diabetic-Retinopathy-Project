@@ -175,12 +175,17 @@ https://drive.google.com/file/d/1ap_UEfRk3AvkDRjapM_oEmgu2fCePI_9/view?usp=shari
 
 ## Technologies Used
 - Python
-- Pytorch
+- Tensorflow
 - Pillow
+- Streamlit
 - Scikit-Learn
 - Matplotlib
+- Pandas
 - Numpy
+- Sqlite 
+- Reportlab
 - Flutter
+
 
 
 
