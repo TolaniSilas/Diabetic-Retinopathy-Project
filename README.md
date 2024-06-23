@@ -172,6 +172,17 @@ https://drive.google.com/file/d/1ap_UEfRk3AvkDRjapM_oEmgu2fCePI_9/view?usp=shari
 
 
 
+
+## Technologies Used
+- Python
+- Pytorch
+- Pillow
+- Scikit-Learn
+- Matplotlib
+- Numpy
+
+
+
 ## Contributing
 
 Contributions are welcome! If you would like to contribute to the project, feel free to reach out. Together, we can enhance the impact of **Machine Learning** and **Artificial Intelligence** in **Medicine**.
