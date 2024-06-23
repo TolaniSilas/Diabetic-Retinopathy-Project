@@ -1,4 +1,4 @@
-# diabetesimageclassifier
+# Diabetic Retinopathy
 
 A new Flutter project.
 
